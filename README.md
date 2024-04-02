@@ -1,5 +1,5 @@
 ### Some wallpapers that I use.
-- If an image's resolution is too low for you, use the AI Image Upscaler [here](https://www.iloveimg.com/upscale-image) or any other similar tool.
+- If an image's resolution is too low for you, [search](https://www.google.com/search?q=ai+image+upscale+free) for an AI image upscaler.
 - You can apply [Catppuccin](https://github.com/catppuccin/catppuccin) flavors to your wallpapers using the [Catppuccinifier](https://github.com/lighttigerXIV/catppuccinifier).
 - All credits go to the **original creators** of these images.
 - More images to come.
