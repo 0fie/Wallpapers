@@ -11,6 +11,8 @@
 
 ###### Credit: [Dominique van Velsen][Dominique van Velsen] ![](./images/macchiato-hald8-cyberpunkish.png)
 
+###### Credit: [焦茶][焦茶] ![](images/macchiato-h8_anime-girl-in-balcony-cityscape-sea-and-sunset.jpg)
+
 ###### Source: [KDE MegaRelease 6 Announcement](https://kde.org/announcements/megarelease/6/) ![](images/mocha-hald16-dark.png)
 
 ###### Source: unknown ![](./images/aesthetic2.jpg)
@@ -37,3 +39,4 @@
 
 [Catppuccin Discord]: https://discord.com/servers/907385605422448742
 [Dominique van Velsen]: https://www.deviantart.com/dominique-van-velsen
+[焦茶]: https://twitter.com/BARD713
