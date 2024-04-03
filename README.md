@@ -13,7 +13,7 @@
 
 ###### Credit: [焦茶][焦茶] ![](images/macchiato-h8_anime-girl-in-balcony-cityscape-sea-and-sunset.jpg)
 
-###### Source: [wallhaven-cc](https://wallhaven.cc/w/3zdjvy) ![](./images/images/mocha-hald8-wallhaven-3zdjvy.jpg)
+###### Source: [wallhaven-cc](https://wallhaven.cc/w/3zdjvy) ![](./images/mocha-hald8-wallhaven-3zdjvy.jpg)
 
 ###### Source: [KDE MegaRelease 6 Announcement](https://kde.org/announcements/megarelease/6/) ![](images/mocha-hald16-dark.png)
 
