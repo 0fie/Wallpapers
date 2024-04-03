@@ -15,6 +15,8 @@
 
 ###### Source: [wallhaven-cc](https://wallhaven.cc/w/3zdjvy) ![](./images/mocha-hald8-wallhaven-3zdjvy.jpg)
 
+###### Source: [alphacoders](https://wall.alphacoders.com/big.php?i=1330260) ![](./images/macchiato-h8-1330260.png)
+
 ###### Source: [KDE MegaRelease 6 Announcement](https://kde.org/announcements/megarelease/6/) ![](images/mocha-hald16-dark.png)
 
 ###### Source: unknown ![](./images/astronaut.png)
