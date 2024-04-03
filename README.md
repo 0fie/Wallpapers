@@ -17,6 +17,8 @@
 
 ###### Source: [alphacoders](https://wall.alphacoders.com/big.php?i=1330260) ![](./images/macchiato-h8-1330260.png)
 
+###### Credit: [焦茶][焦茶] ![](./images/result_33.png)
+
 ###### Source: [KDE MegaRelease 6 Announcement](https://kde.org/announcements/megarelease/6/) ![](images/mocha-hald16-dark.png)
 
 ###### Source: unknown ![](./images/astronaut.png)
