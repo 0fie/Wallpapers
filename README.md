@@ -15,8 +15,6 @@
 
 ###### Source: [KDE MegaRelease 6 Announcement](https://kde.org/announcements/megarelease/6/) ![](images/mocha-hald16-dark.png)
 
-###### Source: unknown ![](./images/aesthetic2.jpg)
-
 ###### Source: unknown ![](./images/astronaut.png)
 
 ###### Source: unknown ![](./images/cat-leaves.png)
