@@ -7,8 +7,6 @@
 
 <br>
 
-###### Source: unknown ![](./images/Above-The-Clouds-Wallpaper.jpg)
-
 ###### Credit: [Dominique van Velsen][Dominique van Velsen] ![](./images/macchiato-hald8-cyberpunkish.png)
 
 ###### Credit: [焦茶][焦茶] ![](images/macchiato-h8_anime-girl-in-balcony-cityscape-sea-and-sunset.jpg)
@@ -17,7 +15,7 @@
 
 ###### Source: [alphacoders](https://wall.alphacoders.com/big.php?i=1330260) ![](./images/macchiato-h8-1330260.png)
 
-###### Credit: [焦茶][焦茶] ![](./images/result_33.png)
+###### Credit: [焦茶][焦茶] !
 
 ###### Source: [KDE MegaRelease 6 Announcement](https://kde.org/announcements/megarelease/6/) ![](images/mocha-hald16-dark.png)
 
@@ -29,17 +27,13 @@
 
 ###### Source: unknown ![](./images/error.jpg)
 
-###### Source: unknown ![](./images/executable_nord.png)
-
 ###### Source: unknown ![](./images/lantern.png)
-
-###### Source: unknown ![](./images/mountain.png)
-
-###### Source: unknown ![](./images/peakpx_23.jpg)
 
 ###### Source: unknown ![](./images/street-tn.png)
 
 ###### Source: unknown ![](./images/winter-wall2.png)
+
+###### Source: unknown ![](./images/Above-The-Clouds-Wallpaper.jpg)
 
 [Catppuccin Discord]: https://discord.com/servers/907385605422448742
 [Dominique van Velsen]: https://www.deviantart.com/dominique-van-velsen
