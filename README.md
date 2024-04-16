@@ -7,6 +7,8 @@
 
 <br>
 
+###### Credit: [焦茶][焦茶] ![](./images/Mocha-hald8-pinkish.jpg)
+
 ###### Credit: [焦茶][焦茶] ![](images/macchiato-h8_anime-girl-in-balcony-cityscape-sea-and-sunset.jpg)
 
 ###### OG Source: unknown ![](./images/catppuccin-ena1.png)
